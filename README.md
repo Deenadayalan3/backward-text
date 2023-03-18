@@ -26,6 +26,8 @@ backward-text is built using following technologies
 
 [Project Website](https://backward-text.kendalldoescoding.tech)
 
+[example video](https://www.youtube.com/watch?v=rh1MQv7h7t0)
+
 [Backup URL](https://backward-text.netlify.app)
 
 # Contributing
@@ -40,3 +42,4 @@ flowchart LR
 
 # Credit
 - Original Idea from [roseindia.net](https://www.roseindia.net/javascript/javascriptexamples/javascript-reverse-text-string.shtml)
+- [example video](https://www.youtube.com/watch?v=rh1MQv7h7t0)
